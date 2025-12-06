@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+tkinter # Có sẵn trong Python tiêu chuẩn
+sqlite3 # Có sẵn trong Python tiêu chuẩn
+# Dùng cho NLP tiếng Việt
+underthesea
+# Dùng cho phân tích thời gian
+python-dateutil

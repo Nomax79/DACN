@@ -1,0 +1,66 @@
+[
+    {
+        "id": 2,
+        "event_name": "Họp lớp",
+        "start_time": "2025-12-07T12:00:00",
+        "end_time": null,
+        "location": "khánh hòa",
+        "reminder_minutes": 30
+    },
+    {
+        "id": 3,
+        "event_name": "Họp",
+        "start_time": "2025-12-07T15:00:00",
+        "end_time": null,
+        "location": "tại phòng c0",
+        "reminder_minutes": 15
+    },
+    {
+        "id": 8,
+        "event_name": "Họp nhóm",
+        "start_time": "2025-12-08T13:00:00",
+        "end_time": null,
+        "location": "trường đại học",
+        "reminder_minutes": 20
+    },
+    {
+        "id": 6,
+        "event_name": "Tham dự hội thảo",
+        "start_time": "2025-12-09T14:00:00",
+        "end_time": null,
+        "location": "online",
+        "reminder_minutes": 45
+    },
+    {
+        "id": 5,
+        "event_name": "Phỏng vấn online",
+        "start_time": "2025-12-10T09:00:00",
+        "end_time": null,
+        "location": "zoom",
+        "reminder_minutes": 60
+    },
+    {
+        "id": 4,
+        "event_name": "Họp nhóm",
+        "start_time": "2025-12-11T14:00:00",
+        "end_time": null,
+        "location": "trường",
+        "reminder_minutes": 15
+    },
+    {
+        "id": 7,
+        "event_name": "Hẹn gặp khách hàng",
+        "start_time": "2025-12-12T10:00:00",
+        "end_time": null,
+        "location": "quán starbucks",
+        "reminder_minutes": 30
+    },
+    {
+        "id": 1,
+        "event_name": "Họp dự án",
+        "start_time": "2025-12-12T15:00:00",
+        "end_time": null,
+        "location": "văn phòng công ty",
+        "reminder_minutes": 45
+    }
+]
